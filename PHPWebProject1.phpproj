@@ -18,5 +18,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="index.php" />
+    <Compile Include="moviesList.php">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
